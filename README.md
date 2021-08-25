@@ -11,7 +11,7 @@ Primer Commit
 Es necesario/recomendable que posea las siguientes herramientas:
 
 - git instalado en su computador.
-- Maven configurado en sus **Variables de Entorno**.
+- gradle configurado en sus **Variables de Entorno**.
 - Interprete de lenguaje de programacion **JAVA** (Eclipse, netbeans, Intellij, etc.)
 
 si necesita instalar algunos de los servicios mencionados puede encontrarlos aquí:
