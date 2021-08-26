@@ -1,10 +1,12 @@
 # Spring Boot Rest API
 
-Esta libreria está implementada en **JAVA** para la materia de **IETI**
+Este microservicio está implementado en **JAVA** para la materia de **IETI**
 
-Primer Commit
+Se realiza el microservicio para CRUD de User por medio de SpringBoot
 
 ## Getting Started
+
+Para el microservicio se creo usó Gradle
 
  ### Prerequisitos.
 
