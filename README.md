@@ -6,7 +6,7 @@ Se realiza el microservicio para CRUD de User por medio de SpringBoot
 
 ## Getting Started
 
-Para el microservicio se creo usó Gradle
+Para el microservicio creado se usó Gradle
 
  ### Prerequisitos.
 
